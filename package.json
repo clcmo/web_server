@@ -1,0 +1,25 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "webserver made in scratch",
+  "main": "csv.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clcmo/web_server.git"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "clcmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clcmo/web_server/issues"
+  },
+  "homepage": "https://github.com/clcmo/web_server#readme"
+}
